@@ -1,4 +1,4 @@
-# AI/ML Internship — Task 01: Laptop Price Data Analysis
+# AI/ML Internship — Project 01: Laptop Price Data Analysis
 
 Python data analysis and visualization project built for Task 01 of the AI/ML Internship (Devixo Solutions). Covers data loading, cleaning, exploratory data analysis, visualization, and insight extraction on a real-world laptop pricing dataset.
 
